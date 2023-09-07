@@ -3,12 +3,12 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZlOHQ5eXAwODNteGxxZXNwNjFtZTIzMTFhbWs3bHo1d2VubHU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif">
 
 ## **XAMPP**
-•	Nyalakan server pada XAMPP
-•	Simpan folder yang dibuat ke dalam htdocs di folder xampp
-•	Import db_kampus.sql ke http://localhost/phpmyadmin/
+-	Nyalakan server pada XAMPP
+-	Simpan folder yang dibuat ke dalam htdocs di folder xampp
+-	Import db_kampus.sql ke http://localhost/phpmyadmin/
 ## **POSTMAN**
-•	Simpan  link dari localhost ke kolom URL
-•	Sesuaikan dengan Method yang diberikan
+-	Simpan  link dari localhost ke kolom URL
+-	Sesuaikan dengan Method yang diberikan
 
 
 <h3 align="left">Languages and Tools:</h3>
