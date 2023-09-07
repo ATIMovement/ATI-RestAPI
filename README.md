@@ -1,6 +1,6 @@
 <h1 align="center">Halo 👋, Kami Bayu, Diaz, Mahendra</h1>
 <h3 align="center">Tugas UKM ATI membuat RestAPI</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611217876157/6ZbI33hAF.gif?auto=format,compress&gif-q=60&format=webm">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZlOHQ5eXAwODNteGxxZXNwNjFtZTIzMTFhbWs3bHo1d2VubHU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
