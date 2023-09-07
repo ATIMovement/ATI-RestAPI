@@ -1,6 +1,6 @@
-<h1 align="center">Perkenalkan 👋, Kami Bayu, Diaz, Mahendra</h1>
+<h1 align="center">Halo 👋, Kami Bayu, Diaz, Mahendra</h1>
 <h3 align="center">Tugas UKM ATI membuat RestAPI</h3>
-<img align="right" alt="Coding" width="400" src="https://priyamondal.hashnode.dev/create-your-own-gifs">
+<img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611217876157/6ZbI33hAF.gif?auto=format,compress&gif-q=60&format=webm">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
